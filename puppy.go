@@ -1,7 +1,7 @@
 package puppy
 
 import (
-	"github.com/Gaurav-coding08/dog@latest"
+	"github.com/Gaurav-coding08/dog"
 )
 
 func Bark() string {
